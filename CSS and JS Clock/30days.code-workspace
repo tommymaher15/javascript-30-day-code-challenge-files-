@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\30 days of javascript"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript 30 day code challenge"
+	}
+}
